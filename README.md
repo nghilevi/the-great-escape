@@ -5,4 +5,4 @@ The Great Escape
 ### [Play Demo](http://vinhnghi223.github.io/HTML5-GAMES/The%20Great%20Escape/)
 ### [Gameplay](https://www.youtube.com/watch?v=seTbVO0Lb1E)
 
-![ScreenShot](https://raw.github.com/vinhnghi223/HTML5-GAMES/master/The%20Great%20Escape/screenshot-tge.png)
+![ScreenShot](https://raw.github.com/vinhnghi223/the-great-escape/master/screenshot-tge.png)
